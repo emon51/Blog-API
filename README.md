@@ -41,4 +41,6 @@ pip install -r requirements.txt
    ```
 6. Open `http://127.0.0.1:8000/docs` in your browser to see API docs.
 
+   **Thank You :)**
+
 
