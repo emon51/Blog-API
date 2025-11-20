@@ -12,7 +12,7 @@ A simple blog API built with FastAPI and MongoDB. Users can create, read, update
 
 1. **Clone the project**
 ```
-git clone https://github.com/your-username/Blog-API.git
+git clone https://github.com/emon51/Blog-API.git
 ```
 ```
 cd Blog-API
